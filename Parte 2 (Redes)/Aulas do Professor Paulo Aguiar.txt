@@ -1,0 +1,29 @@
+Silvana Rossetto
+Criado em: 18 de out.18 de out.
+
+Olá pessoal!  
+Tendo em vista a solicitação de fazermos as aulas nesta quinta-feira de forma remota, 
+optei por fazê-la completamente remota,  aproveitando para usar as vídeo-aulas do prof. 
+Paulo Aguiar, recém-aposentado do Instituto.  Ele ministrou essa disciplina em 2022 e 
+deixou um bom bocado de material pra gente.
+
+
+Cap1 do livro Redes de Computadores e a Internet: Uma abordagem top-down, James F. Kurose e Keith W. Ross, 6a. edição em português, 2014. Sítio da editora http://sv.pearson.com.br., slides 1-11.
+Vídeo-aula do prof Aguiar (https://youtu.be/WCgdTsPgX58).
+Conteúdo: introdução à arquitetura de redes.
+
+
+Evolucão das Redes: https://youtu.be/DhUqb1cXvAM
+
+
+Vídeo-aula do prof. Aguiar:
+https://youtu.be/4cLP4I6D1go
+Conteúdo: O que é a Internet.
+Slides 12 a 27 do Cap. 1 do livro de referência (Kurose-Ross).
+Do minuto 1:06:00 até 1:44:00
+
+Vídeo-aula do prof. Aguiar:
+https://youtu.be/2yd2M7Q8Q9k 
+Conteúdo: Meios físicos (UTP, coaxial, fibra ótica: tipos, atenuação e distorção).
+Slides 28 a 54 do Cap. 1 do livro de referência (Kurose-Ross).
+Até minuto: 1:12:00

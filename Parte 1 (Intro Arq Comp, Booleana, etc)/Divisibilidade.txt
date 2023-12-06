@@ -1,0 +1,73 @@
+Base dez:
+==== ====
+
+1. Múltiplo de dois? se o algarismo das unidades for par.
+2. Múltiplo de cinco? se o algarismo da unidade for zero ou cinco.
+3. Múltiplo de dez? se o algarismo das un idades for zero.
+4. Múltiplo de quatro? se o número formado pela dezena e unidade for múltiplo de quatro.
+5. Multiplo de oito? se o número formado pela centena, dezena e unidade for múltiplo de oito.
+
+6. Múltiplo de três? se a soma dos algarismos é múltipla de três.
+7. Multiplo de seis? se for múltiplo de dois e três.
+8. Múltiplo de nove? se a soma dos algarismos é múltipla de nove.
+
+9. Múltiplo de onze? se a soma dos algarismos de ordem par for igual à
+	soma dos algarismos de ordem ímpar.
+
+
+Base seis:
+==== =====
+multiplos da base ou dos fatores da base:
+1. Múltiplo de dois? se o algarismo das unidades for par.
+2. Múltiplo de três? se o algarismo das unidades for 0 ou 3.
+3. Múltiplo de seis? se o algarismo das unidades for 0.
+4. Múltiplo de quatro? se o número formado pela dezena e unidade for múltiplo de quatro.
+
+Regra da base - 1 ou fatores da base -1:
+5. Múltiplo de cinco? se a soma dos algarismos for múltiplo de cinco.
+
+Regra da base + 1 ou fatores:
+6. Múltiplo de sete? se a soma dos algarismos de ordem para foor igual à
+	soma dos algarismos de ordem ímpar.
+
+
+Base dois:
+==== =====
+
+múltiplos da base ou dos fatores da base:
+1. Múltiplo de dois? se o algarismo das unidades for 0.
+2. Múltiplo de quatro? se o número formado pelos dois algarismos menos significativos forem zero.
+3. Múltiplo de oito? se o número formado pelos três algarismos  menos significativos forem zero.
+
+4. Múltiplo de três? se a soma dos valores dos pares de bits for múltipla de três.
+5. Múltiplo de cinco? se a soma dos valores de grupos de quatro bits for múltipla de cinco.
+6. Múltiplo de sete? se a soma dos valores de grupos de três bits for múltipla de sete.
+7. Múltiplo de quinze?  se a soma dos valores de grupos de quatro bits for múltipla de quinze.
+
+8. Múltiplo de cinco? se a soma módulo cinco dos pares de bits de ordem par for igual à
+	soma dos pares de bits de ordem ímpar.
+9. Múltiplo de nove? se a soma módulo nove dos grupos de três bits de ordem par for igual à
+	soma módulo nove dos grupos de três bits de ordem ímpar.
+10. Múltiplo de onze? se a soma módulo onze dos grupos de cinco bits de ordem par for igual à
+	soma módulo onze dos grupos de cinco bits de ordem ímpar.
+11. Múltiplo de treze? se a soma módulo treze dos grupos de seis bits de ordem par for igual à
+	soma módulo treze dos grupos de seis bits de ordem ímpar.
+
+12. Múltiplo de seis? se for múltiplo de 2 e três simultaneamente.
+13. Múltiplo de dez? se for múltiplo de dois e cinco simultaneamente.
+14. Múltiplo de 12? se for múltiplo de três e quatro simultaneamente.
+15. Múltiplo de 14? se for múltiplo de dois e sete simultaneamente.
+
+
+
+5648
+48
+
+
+252
+2*2=4
+25-4=21
+
+2367
+2367/10-(7*2)=236-14=222
+222/10-(2*2)=22-4=18
